@@ -11,7 +11,7 @@ My GitHub info:
 
 <img src="https://github-readme-stats.vercel.app/api?username=TwilightSpar&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
-Below are the projects I have done!
+Below are some of my projects and thoughts!
 
 - [Manim visualization](https://github.com/TwilightSpar/CO2_Manim)
 - [.Net Core Web game](https://github.com/bill176/ZhuoHeiChaV2)
