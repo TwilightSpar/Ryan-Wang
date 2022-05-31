@@ -16,3 +16,4 @@ Below are some of my projects and thoughts!
 - [Manim visualization](https://github.com/TwilightSpar/CO2_Manim)
 - [.Net Core Web game](https://github.com/bill176/ZhuoHeiChaV2)
 - [Ideas on Blog](https://twilightspar.github.io/Course-Note/)
+- [Xception Network](https://github.com/TwilightSpar/IntroToNNGroupProject)
