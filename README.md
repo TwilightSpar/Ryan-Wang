@@ -1,6 +1,6 @@
 # Ryan-Wang
 
-## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/zhenge-wang-7022aa199/)
+## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/zhenge-wang-7022aa199/)
 
 This is Ryan Wang, an Applied Math and Statistics graduate student at Johns Hopkins University. I am currently pursuing a data science or biostatistic related jobs.
 
