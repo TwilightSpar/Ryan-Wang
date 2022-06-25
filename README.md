@@ -20,5 +20,5 @@ Below are some of my projects and thoughts!
  - [.Net Core Web game](https://github.com/bill176/ZhuoHeiChaV2)
  - [Xception Network](https://github.com/TwilightSpar/IntroToNNGroupProject)
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png" width="24px"/> Note and idea | 学习笔记
-- [Ideas on Blog](https://twilightspar.github.io/Course-Note/)
+- [Ideas on Blog](https://twilightspar.github.io/CourseNoteV3/)
 
